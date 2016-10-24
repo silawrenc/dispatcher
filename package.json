@@ -1,0 +1,17 @@
+{
+  "name": "dispatcher",
+  "version": "0.0.1",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simon Lawrence <silawrenc@gmail.com>",
+  "dependencies": {
+    "joi": "^9.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
